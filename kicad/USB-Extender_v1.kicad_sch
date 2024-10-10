@@ -3337,6 +3337,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 60.325) (xy 157.48 65.405)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ae0686c-e5b1-4b33-8062-89131e65c859")
+	)
+	(wire
+		(pts
 			(xy 154.94 65.405) (xy 157.48 65.405)
 		)
 		(stroke
@@ -3764,6 +3774,16 @@
 			(type default)
 		)
 		(uuid "b5d13ac5-aa96-47b0-8fc9-8706a177bb24")
+	)
+	(wire
+		(pts
+			(xy 137.795 60.325) (xy 157.48 60.325)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9a0416f-e7f9-40a0-be0f-0a05b6e86a2c")
 	)
 	(wire
 		(pts
@@ -5429,10 +5449,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "11711ded-230e-4a7a-9ab5-592582d9a6e4")
 		(property "Reference" "R2"
-			(at 151.13 59.69 90)
+			(at 151.13 61.595 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5440,7 +5459,7 @@
 			)
 		)
 		(property "Value" "180k"
-			(at 151.13 62.23 90)
+			(at 151.13 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
