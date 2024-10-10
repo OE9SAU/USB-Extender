@@ -6858,6 +6858,19 @@
 		(layer "Edge.Cuts")
 		(uuid "deba987e-c9e7-433a-baa7-1dd6e8347623")
 	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 102.2604 88.1126 0)
+		(layer "B.SilkS")
+		(uuid "23b68bb2-cc27-4ea3-bbd7-320b8f0e2c93")
+		(effects
+			(font
+				(size 0.8 0.2)
+				(thickness 0.0375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Slave <-> Master"
 		(at 114.046 60.0456 0)
 		(layer "F.SilkS")
