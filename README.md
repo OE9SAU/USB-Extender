@@ -1,4 +1,4 @@
-# USB Extender V1 incl. TVS
+# USB Extender v1
 
 CH315G is a USB extension control chip, used for USB signal real time transmit and extend transfer distance.
 The USB signal extension circuit in the CH315G, support category 5 or category 5 unshielded twisted-pair cables, 
