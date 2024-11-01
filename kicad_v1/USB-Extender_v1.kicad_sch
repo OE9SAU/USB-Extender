@@ -5433,7 +5433,7 @@
 			(uuid "b9718e25-1a96-4b7f-b515-f3eafeca0ecd")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "H1")
 					(unit 1)
@@ -5500,7 +5500,7 @@
 			(uuid "0363d04d-aa44-4f06-bf39-ff9ec6d08980")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "R2")
 					(unit 1)
@@ -5566,7 +5566,7 @@
 			(uuid "ad4b5a9a-3d1a-419c-9d52-14b27758919d")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR016")
 					(unit 1)
@@ -5632,7 +5632,7 @@
 			(uuid "76271566-1497-4adc-95f4-a86b594a8400")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR011")
 					(unit 1)
@@ -5698,7 +5698,7 @@
 			(uuid "ea846955-3164-4a1d-b138-e18b6d02b665")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR018")
 					(unit 1)
@@ -5764,7 +5764,7 @@
 			(uuid "623fdf9e-a83b-4acb-8c4b-4231645630b9")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR014")
 					(unit 1)
@@ -5830,7 +5830,7 @@
 			(uuid "ca67c36b-3205-42bd-b656-72286000bdaf")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR015")
 					(unit 1)
@@ -5896,7 +5896,7 @@
 			(uuid "aa6cb051-34e1-4c34-9769-d496db66853b")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR07")
 					(unit 1)
@@ -5923,7 +5923,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 234.95 48.8949 0)
 			(effects
 				(font
@@ -5966,7 +5966,7 @@
 			(uuid "9d1848f4-e648-4d08-97af-75691d1efd52")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "R1")
 					(unit 1)
@@ -6032,7 +6032,7 @@
 			(uuid "91870c00-b785-45a8-89e1-113b6f9fdb39")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR013")
 					(unit 1)
@@ -6102,7 +6102,7 @@
 			(uuid "1c61038c-3fe1-43a3-b5ae-769ccc7624f9")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "C6")
 					(unit 1)
@@ -6172,7 +6172,7 @@
 			(uuid "1d9adec7-4f25-45c2-81b7-6984f322aa0f")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "C1")
 					(unit 1)
@@ -6238,7 +6238,7 @@
 			(uuid "d88e4df5-7a4f-4031-b5b8-4a6626a5d16b")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR012")
 					(unit 1)
@@ -6374,7 +6374,7 @@
 			(uuid "91ef97d8-fce9-4214-b8d0-de7d1ee6d5ad")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR017")
 					(unit 1)
@@ -6475,7 +6475,7 @@
 			(uuid "f6a6221f-7ef1-4bee-8b50-1cec40b4ff18")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "J1")
 					(unit 1)
@@ -6542,7 +6542,7 @@
 			(uuid "e4647018-299a-40f9-beac-1c83296189c7")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "J5")
 					(unit 1)
@@ -6612,7 +6612,7 @@
 			(uuid "57d401d9-6813-4355-9cad-5899972060b3")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "C2")
 					(unit 1)
@@ -6679,7 +6679,7 @@
 			(uuid "74d95067-0adc-482c-9ca7-14396ed601a6")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "H2")
 					(unit 1)
@@ -6746,7 +6746,7 @@
 			(uuid "776dd9c7-2cbb-42ba-9aa4-7fe4872402f4")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "H3")
 					(unit 1)
@@ -6826,7 +6826,7 @@
 			(uuid "42534231-c042-4535-84ec-2579ace40652")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "J3")
 					(unit 1)
@@ -6896,7 +6896,7 @@
 			(uuid "f3407ffb-e4d8-43b4-9ac5-79ae53a9ca2a")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "C3")
 					(unit 1)
@@ -6969,7 +6969,7 @@
 			(uuid "bcf8e400-bbb9-4b50-8379-a5a4af449574")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "J4")
 					(unit 1)
@@ -7035,7 +7035,7 @@
 			(uuid "597ff104-3684-43e2-8291-5ce0749eb18a")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR019")
 					(unit 1)
@@ -7168,7 +7168,7 @@
 			(uuid "609914ac-dd64-4ebe-9fe5-984958699ce5")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR05")
 					(unit 1)
@@ -7234,7 +7234,7 @@
 			(uuid "6857c279-6d16-4f17-8de2-021947276830")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR09")
 					(unit 1)
@@ -7304,7 +7304,7 @@
 			(uuid "972eb3c3-7a79-4e9e-b8ff-a8b98e00874e")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "C5")
 					(unit 1)
@@ -7410,7 +7410,7 @@
 			(uuid "210f1c0b-c7b8-4fa2-af73-3148cbcc85da")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "U1")
 					(unit 1)
@@ -7476,7 +7476,7 @@
 			(uuid "a8b989cf-f343-4fb7-a0ad-156212b048c5")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR010")
 					(unit 1)
@@ -7546,7 +7546,7 @@
 			(uuid "ac3f7df1-a4b1-4a9b-84ee-59439e89cd33")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "C4")
 					(unit 1)
@@ -7612,7 +7612,7 @@
 			(uuid "27c482bd-0fff-48e1-abed-7cfdd26549ec")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR02")
 					(unit 1)
@@ -7696,7 +7696,7 @@
 			(uuid "f25e8053-f61f-4065-a9b4-cec2b6383903")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "U2")
 					(unit 1)
@@ -7762,7 +7762,7 @@
 			(uuid "09b9e72f-06ba-4cec-a431-6c1d70e9044e")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR04")
 					(unit 1)
@@ -7894,7 +7894,7 @@
 			(uuid "c1ad4df5-a8c5-41ef-a5bc-b1c84d7eecc0")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR08")
 					(unit 1)
@@ -7960,7 +7960,7 @@
 			(uuid "3dc44f8e-53bc-4f82-9a47-b1a593829778")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR06")
 					(unit 1)
@@ -8025,7 +8025,7 @@
 			(uuid "fabae703-305a-4cf9-a705-7b0146949abe")
 		)
 		(instances
-			(project "USB_Extender_OE9SAU"
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR03")
 					(unit 1)
@@ -8091,7 +8091,7 @@
 			(uuid "7b81b595-f957-4818-93a5-a09286808776")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "#PWR01")
 					(unit 1)
@@ -8161,7 +8161,7 @@
 			(uuid "4f51998f-16e7-4fcf-a84e-11d4987b9463")
 		)
 		(instances
-			(project ""
+			(project "USB-Extender_v1"
 				(path "/faca0ce5-ff55-4f03-bfee-adcc80c33626"
 					(reference "J2")
 					(unit 1)
