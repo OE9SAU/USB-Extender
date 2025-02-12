@@ -479,7 +479,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../gerber_files/",
+      "plot": "K:/Eigene Dateien/HAM/DIY/USB-Extender-V1/kicad_v2/gerberfiles",
       "pos_files": "../",
       "specctra_dsn": "USB-Extender_v2.dsn",
       "step": "",
